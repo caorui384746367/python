@@ -12,7 +12,6 @@ public class Crumbus {
 	public int width;// 菱形的宽度
 	public int height;// 菱形的高度，默认为10
 	public double Ctan;// 菱形内角的Tan的值
-
 	
 	
 	
@@ -56,7 +55,7 @@ public class Crumbus {
 					}
 
 				}
-				System.out.print(" ");
+				System.out.print(" ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
 			}
 			System.out.println();
 		}
